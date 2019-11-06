@@ -1,4 +1,6 @@
 ## Meet The Coders
 
-v0.0.1=> installation from Laravel Boilerplate
+### Version's history
+
+v0.0.0 (20191106) => installation from Laravel Boilerplate
 
